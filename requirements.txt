@@ -1,0 +1,9 @@
+tensorflow>=2.16
+keras-tuner
+scikit-learn
+matplotlib
+pandas
+numpy
+pillow
+streamlit
+fpdf2
